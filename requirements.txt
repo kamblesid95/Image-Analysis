@@ -3,3 +3,10 @@ opencv-python
 numpy
 pillow
 matplotlib
+
+streamlit
+opencv-python-headless
+numpy
+pillow
+matplotlib
+
